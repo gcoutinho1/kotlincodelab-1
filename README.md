@@ -14,7 +14,5 @@ Getting Started
 2. Open the project in Android Studio
 3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade)
 ---------------
-<p align="center">
-  <img width="250" height="500" src="https://github.com/gcoutinho1/kotlincodelab-1/blob/main/gifs/app_unit_tests.gif">
+<img src="https://github.com/gcoutinho1/kotlincodelab-1/blob/main/gifs/app_unit_tests.gif">
 
-</p>
